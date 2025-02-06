@@ -1,0 +1,9 @@
+v=5
+f=4
+g=5
+k=0
+x=2
+m=9
+l=8
+anwser=(v+f+g)*(m-x)
+print(anwser)
